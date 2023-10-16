@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3.1em;
+    background-color: orange; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25vh;
+    color: #000000;
+    position:relative;
+   }
+
+   #countdown{
+        color:rgb(38, 204, 38);
+       filter:drop-shadow(5px 8px 1px rgb(255, 255, 255));
+   }
+   .chakra{
+    display:flex;
+    justify-content: center;
+    width: 200vh;
+    height: 15vh;
+    position: relative;
+   }
+  
